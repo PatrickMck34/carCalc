@@ -18,7 +18,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Lets See How Much You've Saved so far!</h1>
+      <h1>Lets See How Much Randy Has Saved so far!</h1>
       <input
                     type="Integer"
                     value={miles}
