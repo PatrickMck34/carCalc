@@ -13,7 +13,7 @@ function App() {
   let saved = (totalOld - totalNow).toFixed(2)
   if(saved < 0){ saved = 0.00 }
   while (oilChange <= miles) {
-    oilChange += 10000;
+    oilChange += 7500;
   }
 
   return (
